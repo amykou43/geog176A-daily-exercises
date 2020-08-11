@@ -53,6 +53,8 @@ Use `dplyr` verbs to  create a data.frame of the **5** counties with the most cu
 
 ```{r}
 
+filter(covid, max == 5
+
 ```
 
 ## Question 2: 
